@@ -1,0 +1,5 @@
+install mongodb shell by clicking connect
+goto bin folder 
+copy the url and replace <dbname> with node-angular
+enter the password which was given during the cluster creation 
+use node-angular -- to switch to db node-angular 
